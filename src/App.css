@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.about-section{
+  text-align: left;
+  max-width: 800px;
+  min-height: 1000px;
+  margin: 0 auto;
+}
+
+.about-mission{
+  background-color: #F0B35A;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  color: #5A1E12;
+}
