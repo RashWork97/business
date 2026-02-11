@@ -1,0 +1,29 @@
+CRAVEE CARAMEL CORNFLAKES
+Extracted Color Codes (Hex)
+
+MAIN BACKGROUND & BRANDING
+Light Beige: #E6D2B3
+Golden Tan: #F0B35A
+Deep Caramel Brown: #5A1E12
+Dark Brown: #3B1A14
+
+CORNFLAKES (YELLOW / ORANGE SHADES)
+Bright Corn Yellow: #F7B500
+Golden Yellow: #F4A300
+Orange Gold: #E8891A
+Deep Orange: #D96A00
+Light Buttery Yellow: #FFD45C
+Toasted Brown Orange: #C45A00
+
+TEXT & ACCENTS
+Black: #000000
+Soft Black / Dark Gray: #1A1A1A
+Medium Gray: #666666
+
+WHATSAPP ICON
+WhatsApp Green: #25D366
+Dark Green: #128C7E
+
+BOWL (WOOD TONES)
+Warm Wood Brown: #8B4A1F
+Dark Wood Brown: #5C2E12
